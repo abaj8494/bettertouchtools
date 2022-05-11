@@ -8,6 +8,19 @@ The aquatouch preset is mostly just a slightly modified version of yuuiko's [aqu
 
 Here are a couple screenshots:
 
+![default](default.png)
+
+![calendar](calendar.png)
+
+![calendar click manav](calendar2.png)
+
+![calendar click dots](calendar3.png)
+
+![control panel](control-panel.png)
+
+![stocks](stock-1.png)
+
+![stock scroll](stock-2.png)
 
 
 # Triggers+settings
@@ -42,7 +55,6 @@ The triggers & settings file contains my own touchpad commands and are:
 	- previous tab
 	- in tmux, switches to previous window
 
-Here are a few screenshots of the setup.
+It is rather difficult to take screenshots of this part of the workflow, but here is the preview I get after tapping the top left of the touchpad.
 
-
-Touchbar:
+![mpd preview](mpd-preview.png)
