@@ -12,9 +12,9 @@ Here are a couple screenshots:
 
 ![calendar](calendar.png)
 
-![calendar click manav](calendar2.png)
+![calendar click manav](calendar-2.png)
 
-![calendar click dots](calendar3.png)
+![calendar click dots](calendar-3.png)
 
 ![control panel](control-panel.png)
 
@@ -48,10 +48,10 @@ The triggers & settings file contains my own touchpad commands and are:
 	- close tab
 - 4 finger fource touch
 	- reopen recently closed tab
-- 15$\degree$ clockwise rotation (with 2 fingers, like rotating a picture)
+- 15&deg; clockwise rotation (with 2 fingers, like rotating a picture)
 	- next tab
 	- in tmux, switches to next window
-- 15$\degree$ anti-clockwise rotation (as above)
+- 15&deg; anti-clockwise rotation (as above)
 	- previous tab
 	- in tmux, switches to previous window
 
